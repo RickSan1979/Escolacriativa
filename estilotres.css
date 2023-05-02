@@ -1,0 +1,15 @@
+h1, h2, h3{
+    color:blue;
+           }
+body{
+   background-color: aqua; 
+   font-family: 'Times New Roman', Times, serif;
+   font size: 50px;
+    }
+li{ 
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+  } 
+img.programaçãoedit.png-classe{
+vertical-align: super;
+}
